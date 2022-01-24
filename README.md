@@ -59,3 +59,30 @@ A estrutura da implementação tomou como base não somente o pseudocódigo pass
 **População Inicial** 
    
 ![populacaoInicial](https://user-images.githubusercontent.com/55880792/150856280-75d1110e-edc0-4766-b59e-bd04e451acaa.png)
+
+**seleção por Torneio**
+
+![selecao_torneio](https://user-images.githubusercontent.com/55880792/150856632-ea18782c-899f-4064-86d1-9ea179307a69.png)
+
+**Decodificação**
+
+![decodificacao](https://user-images.githubusercontent.com/55880792/150856740-c6c38d0a-6060-44a3-9ffa-906979fb06ab.png)
+
+**Crossover**
+
+![Crossover](https://user-images.githubusercontent.com/55880792/150856839-c2f374b6-2746-4490-8e43-8f8471d92eb3.png)
+
+**Mutação**
+
+![mutacao](https://user-images.githubusercontent.com/55880792/150856937-d94d1e15-3239-41ec-b8e8-1a96dcb64d13.png)
+
+**Remove pior filho**
+
+![removePiorFilho](https://user-images.githubusercontent.com/55880792/150857205-ee664260-b79b-4a36-81b8-8849810bbeda.png)
+
+**Mantem melhor pai**
+
+![mantemPai](https://user-images.githubusercontent.com/55880792/150857302-31c668a8-d819-4d77-8769-5874e03b656f.png)
+---
+##Resultados
+
