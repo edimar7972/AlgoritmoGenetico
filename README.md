@@ -111,3 +111,7 @@ As tabelas a seguir mostram os resultados gráficos(média e melhor) de gBest em
 ![testes - 10 interacoes - 20 populacao - 20 geracao](https://user-images.githubusercontent.com/55880792/150860473-74c23b63-7a00-41e6-8670-dbde460abb63.png)
 
 ![10, 20, 20, exec 4, 7](https://user-images.githubusercontent.com/55880792/150860493-31412c91-35ef-49a6-ad7d-d7dff8eb105a.png)
+
+## Referências
+ * Slides e Vídeos
+ * Contei também com a ajuda do repositório de Malu Freitas
