@@ -28,3 +28,20 @@ O desafio proposto é utilizar a implementação de algum algoritmo genético pa
 ---
 a construção do programa utilizou a versão 3 do **Python**, então recomendo o uso dessa mesma versão para execução do arquivo main.py. Segue o link da documentação da linguagem para as instalações da versão 3:
 - https://docs.python.org/3/using/index.html
+- faça um clone do projeto ou faça o download dos arquivos.
+- Por meio da linha de comando caminhe até o diretório onde se encontram os arquivos-fonte.
+- Execute o comando "python main.py".
+
+## Implementação
+
+A estrutura da implementação tomou como base não somente o pseudocódigo passado, mas também por meio de inferências/deduções com base nos materiais pesquisados (referências ao final do documento). Para fins de transparência, segue o modelo de pseudocódigo que foi usado como suporte:
+
+1. geração de população inicial <br>
+2. Avaliação de cada indivíduo dada sua sequ~encia de bits <br>
+3. Loop iterativo nas partículas processando-as da seguinte forma:<br>
+   seleção dos individuos mais aptos
+   Criação de filhos no processo de crossover e mutação
+   Armazenamento de dados em uma nova população
+   Nova avaliação dos indivíduos
+   
+   Criação de filhos 
