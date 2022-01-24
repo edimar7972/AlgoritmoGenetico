@@ -16,6 +16,6 @@
  ## Problema Proposto  
 
 
-O desafio proposto é utilizar a implementação dfe algum algoritmo genético para minimizar a função descrita abaixo:
+O desafio proposto é utilizar a implementação de algum algoritmo genético para minimizar a função descrita abaixo:
 
-</p align="center">
+
