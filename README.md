@@ -92,3 +92,22 @@ As tabelas a seguir mostram os resultados gráficos(média e melhor) de gBest em
 ![testes - 10 interacoes-10populacao-10geracao](https://user-images.githubusercontent.com/55880792/150859772-6e696194-4ae4-4166-8734-b0014628c163.png)
 
 ![10,10,10 exec 2](https://user-images.githubusercontent.com/55880792/150859802-4d7b0129-0c0d-4cfb-834e-4617f55dd66e.png)
+
+- [10 gerações e 20 indivíduos]
+ 
+![testes - 10 interacoes - 20 populacao - 10 geracao](https://user-images.githubusercontent.com/55880792/150860027-33f2688d-4e6e-4dcd-af44-093fd6d7c8f4.png)
+
+![10, 20 10, exec 1, 3 ,5, 9](https://user-images.githubusercontent.com/55880792/150860092-21c1c90a-8de7-424f-9d41-9a90ee7bbf7a.png)
+
+- [20 gerações e 10 indivíduos]
+![testes - 10 interacoes - 10 populacao - 20 geracoes](https://user-images.githubusercontent.com/55880792/150860310-2c64aba2-9273-4b16-93bb-855ff02205ff.png)
+
+![10,10,20 exec 1, 2](https://user-images.githubusercontent.com/55880792/150860343-580d273f-c550-44d8-9aea-27b90704a00f.png)
+
+- [20 gerações e 20 indivíduos]
+
+
+
+![testes - 10 interacoes - 20 populacao - 20 geracao](https://user-images.githubusercontent.com/55880792/150860473-74c23b63-7a00-41e6-8670-dbde460abb63.png)
+
+![10, 20, 20, exec 4, 7](https://user-images.githubusercontent.com/55880792/150860493-31412c91-35ef-49a6-ad7d-d7dff8eb105a.png)
