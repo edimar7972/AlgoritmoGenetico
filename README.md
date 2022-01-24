@@ -89,22 +89,6 @@ As tabelas a seguir mostram os resultados gráficos(média e melhor) de gBest em
 
 - [10 gerações e 10 indivíduos]
 
-![10,10,10 exec 2](https://user-images.githubusercontent.com/55880792/150858165-6c38f26b-a98f-45eb-ad22-0d9407eb257f.png)
+![testes - 10 interacoes-10populacao-10geracao](https://user-images.githubusercontent.com/55880792/150859772-6e696194-4ae4-4166-8734-b0014628c163.png)
 
-- [10 gerações e 20 indivíduos]
-
-![10, 20 10, exec 1, 3 ,5, 9](https://user-images.githubusercontent.com/55880792/150858719-78904f27-757b-49bd-8a2d-ad94a1ce7f18.png)
-
-- [20 gerações e 10 indivíduos]
-- 
-![10,10,20 exec 1, 2](https://user-images.githubusercontent.com/55880792/150858914-283cfc2e-1a82-470b-86a8-ceb4a80aa730.png)
-
-- [20 gerações e 20 indivíduos]
-
-![10, 20, 20, exec 4, 7](https://user-images.githubusercontent.com/55880792/150859041-b66fab71-3764-40f6-a40f-72ea7d48d15d.png)
-
-### Referências
-
-*Slides e videos*
-
-
+![10,10,10 exec 2](https://user-images.githubusercontent.com/55880792/150859802-4d7b0129-0c0d-4cfb-834e-4617f55dd66e.png)
