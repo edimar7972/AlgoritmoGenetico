@@ -46,6 +46,12 @@ A estrutura da implementação tomou como base não somente o pseudocódigo pass
 
 ### Descrição dos Arquivos:
 - *main.py* - Arquivo de chamada principal onde são especificados a quantidade de testes para rodar, a quantidade de iterações do AG e quantidade de populações.
-- *algoritmo 
+- *AlgoritmoGenetico.py - Arquivo com a implementação do algoritmo junto com funções de validação, que são listadas no escopo do problema.
+- *Cromossomo.py* -Arquivo com a classe que representa uma entidade Cromossomo.
+   - contém atributos de:
+   - valor binário;
+   - aptidão;
+   - valor binário decodificado
+- *persistência.py* - Arquivo com funções para exportação dos resultados.
    
    
