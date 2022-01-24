@@ -39,9 +39,9 @@ A estrutura da implementação tomou como base não somente o pseudocódigo pass
 1. geração de população inicial <br>
 2. Avaliação de cada indivíduo dada sua sequ~encia de bits <br>
 3. Loop iterativo nas partículas processando-as da seguinte forma:<br>
-   seleção dos individuos mais aptos
-   Criação de filhos no processo de crossover e mutação
-   Armazenamento de dados em uma nova população
-   Nova avaliação dos indivíduos
+   1. seleção dos individuos mais aptos
+   2. Criação de filhos no processo de crossover e mutação
+   3. Armazenamento de dados em uma nova população
+   4. Nova avaliação dos indivíduos
    
-   Criação de filhos 
+   
