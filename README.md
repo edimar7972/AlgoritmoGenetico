@@ -43,5 +43,9 @@ A estrutura da implementação tomou como base não somente o pseudocódigo pass
    2. Criação de filhos no processo de crossover e mutação
    3. Armazenamento de dados em uma nova população
    4. Nova avaliação dos indivíduos
+
+### Descrição dos Arquivos:
+- *main.py* - Arquivo de chamada principal onde são especificados a quantidade de testes para rodar, a quantidade de iterações do AG e quantidade de populações.
+- *algoritmo 
    
    
