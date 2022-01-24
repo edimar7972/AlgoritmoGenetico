@@ -84,5 +84,9 @@ A estrutura da implementação tomou como base não somente o pseudocódigo pass
 
 ![mantemPai](https://user-images.githubusercontent.com/55880792/150857302-31c668a8-d819-4d77-8769-5874e03b656f.png)
 ---
-##Resultados
+## Resultados
+As tabelas a seguir mostram os resultados gráficos(média e melhor) de gBest em cada iteração, processados em uma pilha de 10 testes para os casos de:
 
+- [10 gerações e 10 indivíduos]
+
+![10,10,10 exec 2](https://user-images.githubusercontent.com/55880792/150858165-6c38f26b-a98f-45eb-ad22-0d9407eb257f.png)
