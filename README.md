@@ -53,5 +53,9 @@ A estrutura da implementação tomou como base não somente o pseudocódigo pass
    - aptidão;
    - valor binário decodificado
 - *persistência.py* - Arquivo com funções para exportação dos resultados.
+
+### Trechos mais importantes da implementação segundo o Pseudocódigo
+
+**População Inicial** 
    
-   
+![populacaoInicial](https://user-images.githubusercontent.com/55880792/150856280-75d1110e-edc0-4766-b59e-bd04e451acaa.png)
