@@ -23,4 +23,8 @@ O desafio proposto é utilizar a implementação de algum algoritmo genético pa
 
 ![descrição1](https://user-images.githubusercontent.com/55880792/150849825-02809e63-ff77-4029-868e-3734cd0075ec.png)
 
-
+---
+## Instalação e Execução
+---
+a construção do programa utilizou a versão 3 do **Python**, então recomendo o uso dessa mesma versão para execução do arquivo main.py. Segue o link da documentação da linguagem para as instalações da versão 3:
+- https://docs.python.org/3/using/index.html
