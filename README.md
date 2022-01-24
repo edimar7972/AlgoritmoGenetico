@@ -19,4 +19,4 @@
 O desafio proposto é utilizar a implementação de algum algoritmo genético para minimizar a função descrita abaixo:
 
 
-![descrição](https://user-images.githubusercontent.com/55880792/150849283-2bf9335b-2744-4acc-b0e9-89de6008c46b.png)
+![descrição1](https://user-images.githubusercontent.com/55880792/150849825-02809e63-ff77-4029-868e-3734cd0075ec.png)
